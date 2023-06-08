@@ -4,7 +4,7 @@ Mauricio Lucero Franco
 
 ## Github repo
 
-Repositorio: [link](https://github.com/codoacodo-22539/ejemplo-tpo.git) 
+Repositorio: [link](https://github.com/MauricioLuceroo/Grupo_20_PortalDeVinos.git) 
 
 ## Sitio Web
 
@@ -12,12 +12,8 @@ Netlify: [link](vinoria.netlify.app)
 
 ## Tech Stack
 
-**Client:** HTML, CSS, Vanilla JavaSCript
+ HTML, CSS, Vanilla JavaSCript
 
-## Tools Utilizadas
-
-- (https://fonts.googleapis.com)
-- FontAwesome
 
 ## Transicion
 
