@@ -1,4 +1,4 @@
-var imput = document.getElementsByClassName("formulario_imput");
+var imput = document.getElementsByClassName("formulario_input");
 for (var i =0 ; i < imput.length; i++) {
     imput[i].addEventListener("keyup", function(){
         if(this.value.length>=1){
