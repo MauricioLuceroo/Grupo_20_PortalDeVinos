@@ -8,7 +8,7 @@ Repositorio: [link](https://github.com/codoacodo-22539/ejemplo-tpo.git)
 
 ## Sitio Web
 
-Netlify: [link](https://german-ejemplo-tpo.netlify.app/)
+Netlify: [link](vinoria.netlify.app)
 
 ## Tech Stack
 

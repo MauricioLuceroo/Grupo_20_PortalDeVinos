@@ -62,8 +62,8 @@
 		}
 		
 		.texto {
-			margin-left: 80px;
-			margin-right: 80px;
+			margin-left: 5%;
+			margin-right: 5%;
 			margin-top: 20px;
 			margin-bottom: 20px;
 		    text-align: justify;
@@ -84,7 +84,7 @@
 		    text-align: left;
 		    font-size: 25px;
 		    font-weight: bold;
-			margin-left: 80px;
+			margin-left: 5%;
 		}
 		.centrar-img {
 			display: flex;
